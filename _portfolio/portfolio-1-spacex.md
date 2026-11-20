@@ -43,10 +43,10 @@ The project was conducted through the following labs, in the chronological order
 * Lab3B: Build a Dashboard with `Plotly Dash`.
 * Lab4: Predictive Analysis (Classification) with Machine Learning Models.
 
-Project's source code is hosted [here](https://github.com/linhhoang-ex/SpaceX-Falcon9). 
+Project's source code is hosted [here](https://github.com/hoang-tuanlinh/SpaceX-Falcon9). 
 
 ## Project Report
-A complete project report can be found [here](https://github.com/linhhoang-ex/SpaceX-Falcon9/blob/main/ds-capstone-project-report.pdf). <br>
+A complete project report can be found [here](https://github.com/hoang-tuanlinh/SpaceX-Falcon9/blob/main/ds-capstone-project-report.pdf). <br>
 
 
 <p align="center">
